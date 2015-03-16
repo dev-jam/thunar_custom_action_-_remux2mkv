@@ -1,7 +1,7 @@
 Thunar Custom Action: remux2mkv
 ==========
 
-*An Thunar Custom Action for remuxing video files to the MKV container.*  
+*A Thunar Custom Action for remuxing video files to the MKV container.*  
 
 Copyright, 2015, Bob Rosbag  
 
