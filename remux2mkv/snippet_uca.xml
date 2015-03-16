@@ -1,0 +1,8 @@
+ <action>
+	<icon>media-optical-video</icon>
+	<name>Convert video files to MKV</name>
+	<command>xterm -hold -e remux2mkv.sh %N</command>
+	<description>Convert video files to MKV</description>
+	<patterns>*</patterns>
+	<video-files/>
+</action>
