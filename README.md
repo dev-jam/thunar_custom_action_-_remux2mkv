@@ -11,8 +11,11 @@ Copyright, 2015, Bob Rosbag
 
 This Custom action exist of two parts: 
 
-1. The Thunar Custom Action code, this has to be manually added to ~/.config/Thunar/uca.xml or through the GUI option. 
-2. Bash script to handle the selected files and execute the mkvmerge command.
+1. The Thunar Custom Action code.
+2. Bash script to handle the selected files and execute the mkvmerge command. 
+
+The Thunar Custom Action has to be manually added to ~/.config/Thunar/uca.xml or through the GUI option.
+The Bash script has to be copied to a location included in the path environment variable, for example ~/bin
 
 
 2. LICENSE
